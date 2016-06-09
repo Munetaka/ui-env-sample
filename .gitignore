@@ -71,6 +71,6 @@ jspm_packages
 ### https://raw.github.com/github/gitignore/555c92c3acada9bd9b52beff1315a06e209ff5e6/sass.gitignore
 
 .sass-cache/
-*.css.map
+#*.css.map
 
 
