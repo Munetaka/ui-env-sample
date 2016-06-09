@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA;EACE,oEAA2B;EAA3B,6DAA2B;CAC5B","file":"style.css","sourcesContent":["body {\n  background: linear-gradient(90deg, #DE6262 10%, #FFB88C 90%);\n}\n"],"sourceRoot":"/source/"}
